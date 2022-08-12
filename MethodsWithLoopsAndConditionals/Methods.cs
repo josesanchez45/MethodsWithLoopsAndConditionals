@@ -23,7 +23,7 @@ namespace MethodsWithLoopsAndConditionals
         {
             if (num1 == num2)
                 Console.WriteLine($"{num1} and {num2} are equal.");
-            else (num1 != num2)
+            else 
                     Console.WriteLine($" {num1} is not equal to {num2}");
         }
         public static void EvenOrOdd(int a)
