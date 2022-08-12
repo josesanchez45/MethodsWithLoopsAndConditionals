@@ -11,12 +11,18 @@ namespace MethodsWithLoopsAndConditionals
 
         public static void PrintThousand()
         {
-            for (int i = 1000; i > -1001; i--) ;
+            for (int i = 1000; i > -1001; i--) 
+            {
+                Console.WriteLine($"{i}");
+            }
         }
 
         public static void CountByThree()
         {
-            for (int i = 3; i <= 999; i += 3) ;
+            for (int i = 3; i <= 999; i += 3)
+            {
+                Console.WriteLine(i);
+            }
         }
 
         public static void EqualOrNot(int num1, int num2)
