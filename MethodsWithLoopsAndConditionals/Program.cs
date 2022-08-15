@@ -21,4 +21,4 @@ Console.WriteLine("Please enter in a number: ");
 Methods.RangeTen();
 
 Console.WriteLine("Please enter a number that we will multilpy 12 times: ");
-Methods.MultiplesTwelve()
+Methods.MultiplesTwelve();
