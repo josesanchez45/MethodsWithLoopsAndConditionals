@@ -16,3 +16,9 @@ Methods.EvenOrOdd(49);
 
 Console.WriteLine("Are you old enough to vote at 17?");
 Methods.VotingAge(17);
+
+Console.WriteLine("Please enter in a number: ");
+Methods.RangeTen();
+
+Console.WriteLine("Please enter a number that we will multilpy 12 times: ");
+Methods.MultiplesTwelve()
